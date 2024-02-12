@@ -1,3 +1,4 @@
+'use strict';
 import books from './books.js';
 // 6
 const [, secondBook] = books;

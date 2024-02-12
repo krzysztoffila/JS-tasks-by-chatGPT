@@ -1,3 +1,4 @@
+'use strict';
 import books from './books.js';
 // 1.
 const [...secondBookAuthors] = books[1].author;
