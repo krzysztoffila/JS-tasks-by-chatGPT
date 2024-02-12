@@ -1,0 +1,12 @@
+{
+  "name": "js-tasks-by-chatgpt",
+  "version": "1.0.0",
+  "description": "## 1. Destructuring Arrays: 1. Zdekstrukturyzuj tablicę autorów drugiej książki. 2. Stwórz funkcję, która przyjmuje trzecią książkę i wykorzystuje destrukturyzację do wydobycia liczby stron. 3. Utwórz nową tablicę, używając destrukturyzacji do wydobycia tytułów trzech pierwszych książek. 4. Zdekstrukturyzuj tablicę słów kluczowych drugiej książki i przypisz pierwsze słowo do zmiennej `firstKeyword`. 5. Napisz funkcję, która przyjmuje tablicę książek i zwraca średnią ilość stron.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
