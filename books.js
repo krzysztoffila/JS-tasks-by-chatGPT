@@ -19,7 +19,7 @@ const books = [
     pages: 976,
     format: 'hardcover',
     ISBN: '9780321573513',
-    language: 'English',
+    // language: 'English',
     programmingLanguage: 'Java',
     onlineContent: true,
     thirdParty: {
