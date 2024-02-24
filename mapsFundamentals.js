@@ -11,4 +11,4 @@ const getAllAuthors = (authorsMap) => {
   const allAuthors = [...authorsMap.values()];
   return allAuthors;
 };
-console.log(getAllAuthors(authorsMap));
+// console.log(getAllAuthors(authorsMap));
