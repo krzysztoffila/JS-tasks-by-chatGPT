@@ -12,3 +12,5 @@ const getAllAuthors = (authorsMap) => {
   return allAuthors;
 };
 // console.log(getAllAuthors(authorsMap));
+
+export default authorsMap;
